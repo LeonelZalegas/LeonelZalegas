@@ -3,7 +3,7 @@
 <br>
 
 - 📚 Love Philosophy, reading Comics/Mangas and playing Basketball
-- 🌱 Currently learning Kotlin Multiplatform and Compose Multiplatform
+- 🌱 Currently developing a Multi-module large App
 - 🎓 Right now, I'm in my last year of Master of Science (M.S.) in Information Systems Engineering
 
 ## Stack
