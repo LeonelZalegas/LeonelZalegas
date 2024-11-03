@@ -1,9 +1,9 @@
 <h1 align="center"><b>Hey !</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> What's up?</h1>
-<h3 align="center">Android Native Developer</h3>
+<h3 align="center">Mobile Developer</h3>
 <br>
 
 - 📚 Love Philosophy, reading Comics/Mangas and playing Basketball
-- 🌱 Currently developing a Multi-module large App
+- 🌱 Currently developing a Multi-module kids' educational Android app with a game-themed style that uses AI as one of its main features.
 - 🎓 Right now, I'm in my last year of Master of Science (M.S.) in Information Systems Engineering
 
 ## Stack
@@ -11,10 +11,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="48" height="48" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" alt="Android Stuido" width="48" height="48" />
   <img src="https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB.png" alt="Jetpack Compose" width="48" height="48" />
+   <img src="https://www.topsinfosolutions.com/wp-content/uploads/2024/07/react-native-app-development-icon.webp" alt="React Native" width="48" height="48" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="48" height="48" />
   <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" alt="GitHub Actions" width="48" height="48" />
   <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit" width="48" height="48" />
-  <img src="https://book.git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="48" height="48" />
+  <img src="https://static-00.iconduck.com/assets.00/git-icon-256x256-nki51ae3.png" alt="Git" width="48" height="48" />
 </p>
 
 ## 📊 GitHub Stats:
